@@ -28,3 +28,7 @@ yarn add v1.22.5
 mkdir src
 cd src
 touch index.js
+
+# // http://localhost:3333/
+"Hello world!"
+"Hello world Ignite!"
