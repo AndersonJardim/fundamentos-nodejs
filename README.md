@@ -47,3 +47,12 @@ $ nodemon src/index.js
 [nodemon] watching path(s): *.*
 [nodemon] watching extensions: js,mjs,json
 [nodemon] starting `node src/index.js`
+
+# requisições:
+/**
+ * GET    = Buscar  uma informação dentro do servidor
+ * POST   = Inserir uma informação no servidor
+ * PUT    = Alterar uma informação no servidor
+ * PATH   = Alterar uma informação especifica
+ * DELETE = Deletar uma informação no servidor
+*/
