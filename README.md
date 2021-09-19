@@ -32,3 +32,18 @@ touch index.js
 # // http://localhost:3333/
 "Hello world!"
 "Hello world Ignite!"
+
+# para instalar o nodeman apenas no modo debug
+yarn add nodeman -D
+
+# yarn dev
+
+D:\_Documentos\Videos\_Rocketseat_Ignite_NodeJS\fundamentos-nodejs (master)
+yarn dev
+yarn run v1.22.5
+$ nodemon src/index.js
+[nodemon] 2.0.12
+[nodemon] to restart at any time, enter `rs`
+[nodemon] watching path(s): *.*
+[nodemon] watching extensions: js,mjs,json
+[nodemon] starting `node src/index.js`

@@ -13,7 +13,7 @@ const app = express();
 
 //formato JSON
 app.get("/", (request, response) => {
-    return response.json("Hello world Ignite!");
-})
+    return response.json({ message: "Heloo world Ignite - Fundamentos NodeJS" });
+});
 
 app.listen(3333);
