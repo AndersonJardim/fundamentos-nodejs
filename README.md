@@ -1,4 +1,4 @@
-##Comandos iniciais
+# Comandos iniciais
 
 #node -v
 #yarn init -y
@@ -19,3 +19,12 @@ ls
 package.json
 
 touch README.md
+
+# instalar express
+yarn add express
+yarn add v1.22.5
+# ou npm install express
+
+mkdir src
+cd src
+touch index.js
